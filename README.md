@@ -1,4 +1,4 @@
-# CPPP - PayPal Payment Processor
+# CPPP - Check PayPal Payments
 
 A secure and robust PHP-based payment processing system that handles PayPal webhook notifications, processes payments, and sends notifications via Telegram.
 
